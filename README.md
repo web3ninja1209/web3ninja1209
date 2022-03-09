@@ -1,4 +1,4 @@
-![Web3 Ninja](https://user-images.githubusercontent.com/101274709/157476179-2ca37361-92f9-4b73-826f-5dcfd4d17b67.png)
+[<img src="https://img.youtube.com/vi/272WaUwfbis/maxresdefault.jpg" width="50%">](https://youtu.be/272WaUwfbis)
 
 
 - 👋 Hi, I’m Rajat Ratewal! You may know of my work as CEO and Founder of YogaFire.Guru. Or my book, Simply A Cell https://www.amazon.in/Simply-Cell-Rajat-Ratewal-ebook/dp/B086RP93SW, My AWS Ninja course https://www.udemy.com/course/aws-ninja/ or via my recent love for Web 3.0.
@@ -9,6 +9,8 @@
 Connect with me on other platforms 👇
 - Linkedin: https://www.linkedin.com/in/rajatratewal/
 - Email: info@yogafire.guru If you are building solutions for solving climate emergency and working on sustainable products please reach out to me
+
+![Web3 Ninja](https://user-images.githubusercontent.com/101274709/157476179-2ca37361-92f9-4b73-826f-5dcfd4d17b67.png)
 
 <!---
 web3ninja1209/web3ninja1209 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
