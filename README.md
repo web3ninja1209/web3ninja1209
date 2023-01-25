@@ -8,7 +8,7 @@
 
 Connect with me on other platforms 👇
 - Linkedin: https://www.linkedin.com/in/rajatratewal/
-- Email: info@yogafire.guru If you are building solutions for solving climate emergency and working on sustainable products please reach out to me
+- Email: rajatratewal@gmail.com If you are building solutions for solving climate emergency and working on sustainable products please reach out to me
 
 ![Web3 Ninja](https://user-images.githubusercontent.com/101274709/157476179-2ca37361-92f9-4b73-826f-5dcfd4d17b67.png)
 
